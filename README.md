@@ -8,9 +8,12 @@ Getting started
 1. Clone this repo
 1. Clone [gradle-lesscss-plugin](https://github.com/msgilligan/gradle-lesscss-plugin) 
 1. Build and install to your local Maven repo:
+
         cd PATH-TO/gradle-lesscss-plugin
         gradle install
+        
 1. Build the Sample:
+
         cd PATH-TO/gradle-lesscss-sample
         gradle less
     
