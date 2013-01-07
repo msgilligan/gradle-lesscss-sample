@@ -8,11 +8,11 @@ Getting started
 1. Clone this repo
 1. Clone [gradle-lesscss-plugin](https://github.com/msgilligan/gradle-lesscss-plugin) 
 1. Build and install to your local Maven repo:
-    cd PATH-TO/gradle-lesscss-plugin
-    gradle install
+        cd PATH-TO/gradle-lesscss-plugin
+        gradle install
 1. Build the Sample:
-    cd PATH-TO/gradle-lesscss-sample
-    gradle less
+        cd PATH-TO/gradle-lesscss-sample
+        gradle less
     
 The compiled output of build.less should be in `build/less/basic.less.css`.  You should also see the downloaded less Javascript in `build/downloads/less-rhino-1.1.3.js`.
 
